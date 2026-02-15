@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/daniel-martinez-pt/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👨‍💻 Introduction
-I am an IT support professional transitioning from a high-volume retail environment into IT. I have hands-on experience troubleshooting macOS and iOS devices, supporting end users, and resolving hardware and software issues.
+Operations professional from a high-velocity retail environment transitioning into IT support. Experienced in hands-on troubleshooting of macOS and iOS devices, end-user support, and resolving both hardware and software issues.
 
 ---
 
@@ -10,6 +10,19 @@ I am an IT support professional transitioning from a high-volume retail environm
 - IT Support Specialist / Help Desk Roles
 - Desktop Support
 - Systems Administration
+
+---
+
+## 💻 Projects
+### Arduino Electronics Projects
+[Arduino Music Box Project](https://github.com/dmartinez5/Arduino_Music_Box)
+
+
+### Windows PC Build Projects
+- Selected and assembled PC components (CPU, RAM, GPU, storage, PSU, motherboard)
+- Installed and configured the Windows operating system
+- Installed drivers, configured BIOS settings, and performed hardware troubleshooting
+- Diagnosed boot failures and peripheral issues
 
 ---
 
@@ -63,29 +76,3 @@ I am an IT support professional transitioning from a high-volume retail environm
 <img src="https://img.shields.io/badge/-Google_IT_Support_In_Progress-34A853?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA_A%2B_In_Progress-CC0000?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
-
----
-
-## Projects
-
-### Windows PC Build Projects
-- Selected and assembled PC components (CPU, RAM, GPU, storage, PSU, motherboard)
-- Installed and configured the Windows operating system
-- Installed drivers, configured BIOS settings, and performed hardware troubleshooting
-- Diagnosed boot failures and peripheral issues
-
-### Arduino Electronics Projects
-- Built sensor-based electronics projects using Arduino microcontrollers
-- Worked with basic circuitry, breadboards, and component wiring
-- Practiced structured troubleshooting and debugging of hardware and code issues
-
----
-
-## Professional Experience Highlights
-**Apple — Operations Specialist / Tech and Merchandising / Sales Specialist**
-- Assisted with macOS and iOS troubleshooting
-- Configured and prepared devices for end users
-- Maintained accurate system and inventory records using SAP
-- Created, escalated, and maintained service tickets using Service Channel
-
----
